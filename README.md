@@ -1,18 +1,9 @@
 # Packages-APKs Xiaomi 
 # 
-# …or create a new repository on the command line
+ -French by FayzB
 # 
-echo "# Package-APKs" >> README.md
+ -Romanian by ashtefan
 # 
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/FayzB/Package-APKs.git
-git push -u origin master
-
-
-# …or push an existing repository from the command line
-# 
-git remote add origin https://github.com/FayzB/Package-APKs.git
-git push -u origin master
+-If you want to participate made an application so that I create your file and send me your nickname 
+ for an integration on the GitHub
 
